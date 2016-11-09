@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6049e809e93fb41c08471b0dbe4e83054bf86ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_34a37fcf95952bf792dc88f5f3c3efcf20444a18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_bc1453db51425100e255e59a6f64b11e3d76ccd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_95c36425aff127b2288b81622090f0a2fbed6200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_15a56bcdcc8015b03c8ed883b4dc277a03b7b1f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_dcd9250b8c5c19349628f40d5bd408c1af57264c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_14095d22a06ac5b0f8f3fdc99c6a199bd36cd59a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_0d462470bb1042864a8862a25741eb1e8b8d0413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5a837e421295f15da2baf51d95728186f12982bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_d2d03d6226481faf71f2f8dbf641e163862cdd19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c1c15e5a5c2e545141d50add7aa93d805afad8c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e05e070e735bb80f714c6aa37b1d45d68826bc7">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4efa812491853c761d3bfa125f7c3fe886b0d20c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_4152bd0de8abbfd1d0348706ff159c3447abc6c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_ba42b6d6dc6300d1b562ac716de9277a7d890a61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c913284c64474d7d23d6a54cc341efc0d7783ab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6c5c4ff50d6ac3dc404a4a7932d40292e5b8024b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a91998e6979b204a3857f6bae54976b82a243e41">
+        <dex dex="C:\Users\Rayna\Documents\CMSC434\Doodler\app\build\intermediates\pre-dexed\debug\instant-run_17eb2500a06f01965dfa42d390280e9a923989da.jar" />
+    </item>
+
+</items>

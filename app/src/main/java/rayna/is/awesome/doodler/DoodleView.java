@@ -1,6 +1,7 @@
 package rayna.is.awesome.doodler;
 
 import android.content.Context;
+import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
@@ -17,6 +18,10 @@ public class DoodleView extends View {
 
     private Paint mPaintDoodle = new Paint();
     private Path mPath = new Path();
+    private Paint mDoodlePaint, mCanvasPaint;
+    private int mColor = Color.BLACK;
+    private Canvas mDoodleCanvas;
+    private Bitmap mDoodleBitmap;
 
     public DoodleView(Context context) {
         super(context);
@@ -34,9 +39,10 @@ public class DoodleView extends View {
     }
 
     private void init(AttributeSet attrs, int defStyleAttr) {
-        mPaintDoodle.setColor(Color.RED);
+        mPaintDoodle.setColor(mColor);
         mPaintDoodle.setAntiAlias(true);
         mPaintDoodle.setStyle(Paint.Style.STROKE);
+        mPaintDoodle.setStrokeWidth(15);
     }
 
     @Override
@@ -62,4 +68,11 @@ public class DoodleView extends View {
         invalidate();
         return true;
     }
+    // class MyPaint, color = color, Path = path, Int size, change settings make another arraylist entry of different states
+    public void setColor(String newColor){
+        invalidate();
+        mColor = Color.parseColor(newColor);
+        mDoodlePaint.setColor(mColor);
+    }
 }
+
